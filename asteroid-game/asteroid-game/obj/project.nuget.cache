@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a5I7ynb72Z/YhV3rR1+W1Yn1rXixHei5Fc6+xhRkAPLqFpSLpMKJqCI0vhyAPeaWB07PepSNswzJ6oG04uncZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sbp_d\\source\\repos\\asteroid-game\\asteroid-game\\asteroid-game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbp_d\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\sbp_d\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
